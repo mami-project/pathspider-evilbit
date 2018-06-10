@@ -31,7 +31,7 @@ class EvilBit(ForgeSpider, PluggableSpider):
         else:
             ip = IP(src=self.source[0], dst=job['dip'])
         if seq == 1:
-            #### TODO: Set the 'evil' flag if it's the second packet
+            ip.flags = 'evil'
         return ip/l4
     
 
