@@ -1,100 +1,98 @@
-{"dip":"2a00:1450:4009:80d::200e","domain":"google.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"1"}
-{"dip":"216.58.204.46","domain":"google.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"1"}
-{"dip":"2a03:2880:f11a:83:face:b00c:0:25de","domain":"facebook.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"3"}
-{"dip":"31.13.90.36","domain":"facebook.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"3"}
-{"dip":"104.244.42.129","domain":"twitter.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"11"}
-{"dip":"104.244.42.1","domain":"twitter.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"11"}
-{"dip":"2620:109:c002::6cae:a0a","domain":"linkedin.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"55"}
-{"dip":"108.174.10.10","domain":"linkedin.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"55"}
-{"dip":"151.101.129.140","domain":"reddit.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"6"}
-{"dip":"151.101.193.140","domain":"reddit.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"6"}
-{"dip":"151.101.1.140","domain":"reddit.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"6"}
-{"dip":"151.101.65.140","domain":"reddit.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"6"}
-{"dip":"151.101.16.193","domain":"imgur.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"41"}
-{"dip":"2a01:578:3::36c2:57d0","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"2a01:578:3::3431:6f6","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"2a01:578:3::369a:e5b8","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"2a01:578:3::364c:5cf3","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"2a01:578:3::36c2:aab","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"2a01:578:3::22fa:2993","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"2a01:578:3::22fc:b3a2","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"2a01:578:3::36c2:9b92","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"52.30.238.17","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"52.19.113.209","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"52.17.27.129","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"52.31.109.246","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"52.18.96.227","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"52.17.14.18","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"52.18.82.167","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"52.214.179.84","domain":"netflix.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"25"}
-{"dip":"2406:da00:ff00::23aa:5823","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"2406:da00:ff00::342c:f9cd","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"2406:da00:ff00::22c7:bdda","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"2406:da00:ff00::22c0:9c50","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"2406:da00:ff00::3416:3580","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"2406:da00:ff00::22e2:135a","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"2406:da00:ff00::22c1:9fa1","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"2406:da00:ff00::22e9:ffc5","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"34.233.255.197","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"35.170.88.35","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"52.22.53.128","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"52.72.109.197","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"52.200.175.194","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"34.226.19.90","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"52.203.135.65","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"52.44.249.205","domain":"instagram.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"14"}
-{"dip":"192.147.130.204","domain":"adobe.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"67"}
-{"dip":"193.104.215.58","domain":"adobe.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"67"}
-{"dip":"2400:cb00:2048:1::6819:ec76","domain":"indoxx1.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"288"}
-{"dip":"2400:cb00:2048:1::6819:eb76","domain":"indoxx1.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"288"}
-{"dip":"104.25.235.118","domain":"indoxx1.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"288"}
-{"dip":"104.25.236.118","domain":"indoxx1.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"288"}
-{"dip":"52.85.201.207","domain":"primevideo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"273"}
-{"dip":"106.39.167.118","domain":"jd.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"17"}
-{"dip":"2400:cb00:2048:1::6810:1f8","domain":"ladbible.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"281"}
-{"dip":"2400:cb00:2048:1::6810:5f8","domain":"ladbible.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"281"}
-{"dip":"2400:cb00:2048:1::6810:2f8","domain":"ladbible.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"281"}
-{"dip":"2400:cb00:2048:1::6810:3f8","domain":"ladbible.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"281"}
-{"dip":"2400:cb00:2048:1::6810:4f8","domain":"ladbible.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"281"}
-{"dip":"104.16.4.248","domain":"ladbible.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"281"}
-{"dip":"104.16.1.248","domain":"ladbible.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"281"}
-{"dip":"104.16.3.248","domain":"ladbible.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"281"}
-{"dip":"104.16.5.248","domain":"ladbible.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"281"}
-{"dip":"104.16.2.248","domain":"ladbible.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"281"}
-{"dip":"151.101.192.175","domain":"scribd.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"229"}
-{"dip":"151.101.0.175","domain":"scribd.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"229"}
-{"dip":"151.101.64.175","domain":"scribd.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"229"}
-{"dip":"151.101.128.175","domain":"scribd.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"229"}
-{"dip":"180.240.134.85","domain":"tribunnews.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"75"}
-{"dip":"42.236.9.70","domain":"so.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"88"}
-{"dip":"111.161.64.48","domain":"qq.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"8"}
-{"dip":"111.161.64.40","domain":"qq.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"8"}
-{"dip":"64.4.250.33","domain":"paypal.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"71"}
-{"dip":"64.4.250.32","domain":"paypal.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"71"}
-{"dip":"34.235.56.176","domain":"quora.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"93"}
-{"dip":"52.7.178.92","domain":"quora.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"93"}
-{"dip":"2a00:1450:4009:80d::200e","domain":"youtube.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"2"}
-{"dip":"216.58.204.46","domain":"youtube.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"2"}
-{"dip":"192.0.78.9","domain":"wordpress.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"65"}
-{"dip":"192.0.78.17","domain":"wordpress.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"65"}
-{"dip":"2001:4998:58:1836::11","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"2001:4998:c:1023::5","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"2001:4998:58:1836::10","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"2001:4998:44:41d::4","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"2001:4998:44:41d::3","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"2001:4998:c:1023::4","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"72.30.35.10","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"98.137.246.8","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"98.138.219.232","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"72.30.35.9","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"98.137.246.7","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"98.138.219.231","domain":"yahoo.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"7"}
-{"dip":"216.18.168.1","domain":"bongacams.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"63"}
-{"dip":"204.79.197.200","domain":"bing.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"37"}
-{"dip":"13.107.21.200","domain":"bing.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"37"}
-{"dip":"140.205.94.193","domain":"tmall.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"15"}
-{"dip":"140.205.130.99","domain":"tmall.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"15"}
-{"dip":"110.75.139.5","domain":"alipay.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"38"}
-{"dip":"110.75.129.5","domain":"alipay.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"38"}
-{"dip":"185.88.181.9","domain":"xvideos.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"39"}
-{"dip":"185.88.181.7","domain":"xvideos.com","hellfire_lookup_attempts":1,"hellfire_lookup_type":"host","rank":"39"}
+{"dip": "2a00:1450:4009:80d::200e", "domain": "google.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "1", "dp": 80}
+{"dip": "216.58.204.46", "domain": "google.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "1", "dp": 80}
+{"dip": "2a03:2880:f11a:83:face:b00c:0:25de", "domain": "facebook.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "3", "dp": 80}
+{"dip": "31.13.90.36", "domain": "facebook.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "3", "dp": 80}
+{"dip": "104.244.42.129", "domain": "twitter.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "11", "dp": 80}
+{"dip": "104.244.42.1", "domain": "twitter.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "11", "dp": 80}
+{"dip": "2620:109:c002::6cae:a0a", "domain": "linkedin.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "55", "dp": 80}
+{"dip": "108.174.10.10", "domain": "linkedin.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "55", "dp": 80}
+{"dip": "151.101.129.140", "domain": "reddit.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "6", "dp": 80}
+{"dip": "151.101.193.140", "domain": "reddit.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "6", "dp": 80}
+{"dip": "151.101.1.140", "domain": "reddit.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "6", "dp": 80}
+{"dip": "151.101.65.140", "domain": "reddit.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "6", "dp": 80}
+{"dip": "151.101.16.193", "domain": "imgur.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "41", "dp": 80}
+{"dip": "2a01:578:3::36c2:57d0", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "2a01:578:3::3431:6f6", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "2a01:578:3::369a:e5b8", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "2a01:578:3::364c:5cf3", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "2a01:578:3::36c2:aab", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "2a01:578:3::22fa:2993", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "2a01:578:3::22fc:b3a2", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "2a01:578:3::36c2:9b92", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "52.30.238.17", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "52.19.113.209", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "52.17.27.129", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "52.31.109.246", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "52.18.96.227", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "52.17.14.18", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "52.18.82.167", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "52.214.179.84", "domain": "netflix.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "25", "dp": 80}
+{"dip": "2406:da00:ff00::23aa:5823", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "2406:da00:ff00::342c:f9cd", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "2406:da00:ff00::22c7:bdda", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "2406:da00:ff00::22c0:9c50", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "2406:da00:ff00::3416:3580", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "2406:da00:ff00::22e2:135a", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "2406:da00:ff00::22c1:9fa1", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "2406:da00:ff00::22e9:ffc5", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "34.233.255.197", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "35.170.88.35", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "52.22.53.128", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "52.72.109.197", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "52.200.175.194", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "34.226.19.90", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "52.203.135.65", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "52.44.249.205", "domain": "instagram.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "14", "dp": 80}
+{"dip": "192.147.130.204", "domain": "adobe.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "67", "dp": 80}
+{"dip": "193.104.215.58", "domain": "adobe.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "67", "dp": 80}
+{"dip": "2400:cb00:2048:1::6819:ec76", "domain": "indoxx1.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "288", "dp": 80}
+{"dip": "2400:cb00:2048:1::6819:eb76", "domain": "indoxx1.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "288", "dp": 80}
+{"dip": "104.25.235.118", "domain": "indoxx1.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "288", "dp": 80}
+{"dip": "104.25.236.118", "domain": "indoxx1.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "288", "dp": 80}
+{"dip": "52.85.201.207", "domain": "primevideo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "273", "dp": 80}
+{"dip": "106.39.167.118", "domain": "jd.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "17", "dp": 80}
+{"dip": "2400:cb00:2048:1::6810:1f8", "domain": "ladbible.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "281", "dp": 80}
+{"dip": "2400:cb00:2048:1::6810:5f8", "domain": "ladbible.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "281", "dp": 80}
+{"dip": "2400:cb00:2048:1::6810:2f8", "domain": "ladbible.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "281", "dp": 80}
+{"dip": "2400:cb00:2048:1::6810:3f8", "domain": "ladbible.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "281", "dp": 80}
+{"dip": "2400:cb00:2048:1::6810:4f8", "domain": "ladbible.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "281", "dp": 80}
+{"dip": "104.16.4.248", "domain": "ladbible.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "281", "dp": 80}
+{"dip": "104.16.1.248", "domain": "ladbible.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "281", "dp": 80}
+{"dip": "104.16.3.248", "domain": "ladbible.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "281", "dp": 80}
+{"dip": "104.16.5.248", "domain": "ladbible.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "281", "dp": 80}
+{"dip": "104.16.2.248", "domain": "ladbible.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "281", "dp": 80}
+{"dip": "151.101.192.175", "domain": "scribd.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "229", "dp": 80}
+{"dip": "151.101.0.175", "domain": "scribd.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "229", "dp": 80}
+{"dip": "151.101.64.175", "domain": "scribd.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "229", "dp": 80}
+{"dip": "151.101.128.175", "domain": "scribd.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "229", "dp": 80}
+{"dip": "180.240.134.85", "domain": "tribunnews.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "75", "dp": 80}
+{"dip": "42.236.9.70", "domain": "so.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "88", "dp": 80}
+{"dip": "111.161.64.48", "domain": "qq.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "8", "dp": 80}
+{"dip": "111.161.64.40", "domain": "qq.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "8", "dp": 80}
+{"dip": "64.4.250.33", "domain": "paypal.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "71", "dp": 80}
+{"dip": "64.4.250.32", "domain": "paypal.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "71", "dp": 80}
+{"dip": "34.235.56.176", "domain": "quora.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "93", "dp": 80}
+{"dip": "52.7.178.92", "domain": "quora.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "93", "dp": 80}
+{"dip": "192.0.78.9", "domain": "wordpress.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "65", "dp": 80}
+{"dip": "192.0.78.17", "domain": "wordpress.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "65", "dp": 80}
+{"dip": "2001:4998:58:1836::11", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "2001:4998:c:1023::5", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "2001:4998:58:1836::10", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "2001:4998:44:41d::4", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "2001:4998:44:41d::3", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "2001:4998:c:1023::4", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "72.30.35.10", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "98.137.246.8", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "98.138.219.232", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "72.30.35.9", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "98.137.246.7", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "98.138.219.231", "domain": "yahoo.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "7", "dp": 80}
+{"dip": "216.18.168.1", "domain": "bongacams.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "63", "dp": 80}
+{"dip": "204.79.197.200", "domain": "bing.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "37", "dp": 80}
+{"dip": "13.107.21.200", "domain": "bing.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "37", "dp": 80}
+{"dip": "140.205.94.193", "domain": "tmall.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "15", "dp": 80}
+{"dip": "140.205.130.99", "domain": "tmall.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "15", "dp": 80}
+{"dip": "110.75.139.5", "domain": "alipay.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "38", "dp": 80}
+{"dip": "110.75.129.5", "domain": "alipay.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "38", "dp": 80}
+{"dip": "185.88.181.9", "domain": "xvideos.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "39", "dp": 80}
+{"dip": "185.88.181.7", "domain": "xvideos.com", "hellfire_lookup_attempts": 1, "hellfire_lookup_type": "host", "rank": "39", "dp": 80}
